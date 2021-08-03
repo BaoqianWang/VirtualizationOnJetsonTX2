@@ -1,13 +1,12 @@
 # Virtualization (KVM and Docker) on the JetsonTX2
 Implementation of KVM and Docker on Jetson TX2
 
-Link for Ubuntu Sever ISO file : https://drive.google.com/open?id=1o6Y36ol_DhKj1wSARgPS9W3c_gh7Z_oR
-
 Instructions to implement KVM and Docker on Jetson TX2 are contained in files "KVM on Jetson TX2.pdf" and "Docker on Jetson TX2.pdf" respectively.
+For the KVM, here is the link for Ubuntu Sever ISO file : https://drive.google.com/open?id=1o6Y36ol_DhKj1wSARgPS9W3c_gh7Z_oR
 
 ## Paper citation
 
-Below are the two papers comparing performance of KVM and Docker, if you found they are helpful, please consider citing them:
+Below are the two papers comparing performance of KVM and Docker on the Jetson TX2, if you found they are helpful, please consider citing them:
 
 Conference verison:
 <pre>
